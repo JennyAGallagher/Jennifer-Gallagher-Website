@@ -1,0 +1,150 @@
+
+.display{
+	width: 100%;
+	height: 100%;
+	display: inline-block;
+
+
+}
+
+ .box{
+ 
+ 	width: auto;
+ 	height: 600px;
+ 	border: 1px solid black;
+ 	margin: auto;
+ 	margin-top: 2pt;
+
+ }
+
+ .text{
+
+ 	font-size: 12pt;
+ 	font-family: helvetica;
+ 	font-weight: 300;
+ 	text-align: center;
+ 
+ }
+
+ .div{
+ 	margin: 40px auto;
+ }
+
+ .heading{
+    width: auto;
+    height: 100%;
+    margin: 0;
+    z-index: 2;
+    position: relative;
+    top-margin: 0;
+}
+
+
+.body{
+	margin: 0;
+
+}
+
+.header{
+	height: 90px;
+	width: 1280px;
+	margin: 0;
+
+}
+
+.resume {
+    line-height: 1.5pt;
+    font-family: helvetica;
+    margin-top: 27pt;
+    margin-left: 17pt;
+    font-size: 27pt;
+    letter-spacing: 1.5pt;
+    color: white;
+    font-weight: 200;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
+    
+
+
+.section{
+	height: 600px;
+	width: 1280px;
+	margin: 0;
+}
+
+
+.subheading{
+    border: solid rgba(0, 0, 0, 0.07) 1pt;
+	text-align: center;
+    font-family: helvetica;
+    font-size: 19pt;
+    color: solid black;
+
+}
+
+
+
+
+
+.icon{
+height: 77pt;
+margin-right: 5pt;
+margin-left: 5pt;
+margin-top: 5pt;
+
+}
+
+
+.pngsection{
+	height: 25%;
+	padding-top: 40pt;
+	padding-bottom: .2%;
+	margin-left: 20pt;
+	margin-top: 10%;
+	width: 75%;
+    margin: auto;
+    top: 120%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  
+}
+
+
+.text{
+    float: right;
+    padding-left: 33%;
+}
+
+
+.block{
+    border: solid black 10pt;
+    display: inline-block;
+    float: left;
+    background-color: rgb(163, 38, 56);
+    width: 50%; 
+   
+}
+
+
+.sideheading{
+    text-align: center;
+    padding-top: 25%;
+    font-family: cursive;
+    font-size: 50pt;
+    color: solid black;
+    
+
+}
+
+
+
+
+
+
+
+

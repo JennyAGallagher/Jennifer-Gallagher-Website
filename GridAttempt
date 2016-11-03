@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+
+<link rel="stylesheet" type="text/css" href="GridAttempt.css">
+
+<head>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+
+</head>
+
+<body class="body heading">
+
+<section>
+
+<img src="heading.jpg" style="height: 908px; width: 100%;">
+
+</section>	
+
+<title>Jennifer Gallagher</title>
+
+
+
+<section class="backgroudimage" style="height: 368px; width: 100%; margin-top:-3pt">
+
+<div class="subheading">
+
+
+<h1 >Skills</h1>
+
+</div>
+
+ <div class="pngsection">
+				<img src="Illustrator.png" class="icon"/>
+				<img src="indesign.png" class="icon"/>
+				<img src="photoshop.png" class="icon"/>
+				<img src="lightroom.png" class="icon"/>
+				<img src="premiere.png" class="icon"/>
+				<img src="powerpoint.png" class="icon"/>
+				<img src="microsoftword.png" class="icon"/>
+				<img src="excel.png" class="icon"/>
+</div>
+
+</section>	
+
+
+
+
+<section class="backgroudimage" style="height: 368px; width: 100%; margin-top:-3pt">
+
+<div class="subheading">
+
+
+<h1 >Education</h1>
+
+</div>
+
+ <h2 style="text-align: center; padding-top:25pt;" class="boxname">Temple University</h2>
+			<h3 style="margin-top: -9pt; text-align: center;">Media Studies and Production</h3>
+			<p style="margin-top: -10pt; text-align: center">Expected Graduation<br>May 2017</p>
+</div>
+
+</section>	
+
+<section class="backgroudimage" style="height: 368px; width: 100%; margin-top:-3pt;">
+
+
+
+
+</div>
+
+
+
+<div class="block" style="height: 677px;">
+	<div class="sideheading">
+Relevant Experience
+</div>
+</div>
+<div style="float: left; margin-left:16pt; display:inline-block; height: 677px; padding-top:2%;">
+<h3 class="span">TUTV</h3>
+			<span>September 2014 - September 2016</span>
+				<ul>
+					<li>Participate in research and development for programming </li>
+					<li>Assist in the production of filming</li>
+					<li>Prepare scripts and monologues</li>
+				</ul>
+	
+
+	
+			<h3 class="span">Media Meltdown Productions</h3>
+				<span>January 2014 - January 2015</span>
+				<ul>
+					<li>Social media manager</li>
+					<li>Created and implemented marketing tactics across Twitter, 	Facebook, and Instagram</li>
+					<li>Constructed marketing materials using Adobe Photoshop</li>
+				</ul>
+	
+
+			<h3 class="span">Kids at Play</h3>
+			<span>August 2015</span>
+				<ul>
+					<li>Operated a camera in the production of a television content proposal
+					</li>
+				</ul>
+
+			<h3 class="span">WHIP Student Radio</h3>
+			<span>January 2014 - June 2014</span>
+				<ul>
+					<li>Composed dialogue for the Steve Nowicki Show</li>
+					<li>Researched current events</li>
+					<li>Formulated topical jokes</li>
+					<li>Created media content</li>
+					<li>Developed marketing material using Adobe Photoshop</li>
+				</ul>
+</div>
+</div>
+
+</section>	
+<section class="backgroudimage" style="height: 368px; width: 100%; margin-top:-3pt; ">
+
+
+
+<div class="block" style="height: 677px;">
+
+	<div class="sideheading">
+Work
+</div> 
+
+</div>
+
+<div style="float: left; padding-left:20pt; padding-top:7%;">
+
+
+ <h3 class="span">Temple University Performing Arts Center</h3>
+			<span>September 2015 - current</span>
+				<ul>
+					<li>Preparation of venue prior to event</li>
+					<li>Stage building</li>
+					<li>Break down of stage</li>
+				</ul>
+			<h3 class="span">Acme Markets</h3>
+			<span>May 2015 - August 2015</span>
+				<ul>
+					<li>Greeted and helped customers</li>
+					<li>Maintained and organized a clean work space</li>
+					<li>Answered department telephone</li>
+				</ul>
+			<h3 class="span">Target</h3>
+			<span>May 2013 - January 2014</span>
+				<ul>
+					<li>Greeted customers</li>
+					<li>Organized merchandise</li>
+					<li>Responsible for main telephone line</li>
+				</ul>
+</div>
+
+</section>	
+
+
+<section class="backgroudimage" style=" float:left; height: 368px; width: 100%; margin-top:-3pt; ">
+
+
+
+<div class="block" style="height: 677px;">
+
+	<div class="sideheading">
+Activites
+</div> 
+
+</div>
+
+<div style="float: left; padding-left:20pt;padding-top:10%;">
+
+
+ <h3 class="span">Big Brother Big Sister</h3>
+			<span>September 2015 - Present</span>
+				
+			<h3 class="span">Outdoors Club</h3>
+			<span>September 2015 - Present</span>
+				
+			<h3 class="span">Fencing Club</h3>
+			<span>September 2013 - December 2013</span>
+				
+</div>
+
+</section>	
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
